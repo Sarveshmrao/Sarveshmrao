@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh M Rao</h1>
 <h3 align="center">A passionate developer from India</h3>
-<h3 align="center">I'm a Video Creator🎥, Developer, YouTuber🤳, Programmer👨‍💻 and a FreeLancer</h3>
+<h3 align="center">I'm a Video Creator🎥, Developer💻, YouTuber🤳, Programmer👨‍💻 and a FreeLancer👷‍♂️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshmrao" alt="sarveshmrao" /> </p>
 
 - 👨‍💻 Know more about me at [https://www.sarveshmrao.ml](https://www.sarveshmrao.ml)
