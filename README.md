@@ -131,7 +131,6 @@ I'm a Video Creator🎥, Developer💻, YouTuber🤳, Programmer👨‍💻 and 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshmrao&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=sarveshmrao&hide_title=true&hide_border=true&langs_count=5" align="center" /></div>
 <br/>  
 
 
