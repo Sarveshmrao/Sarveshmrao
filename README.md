@@ -136,8 +136,8 @@ I'm a Video Creator🎥, Developer💻, YouTuber🤳, Programmer👨‍💻 and 
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://blog.sarveshmrao.ml/2020/1/hello-world/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
