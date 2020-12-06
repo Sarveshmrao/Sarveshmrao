@@ -136,7 +136,9 @@ I'm a Video Creator🎥, Developer💻, YouTuber🤳, Programmer👨‍💻 and 
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://blog.sarveshmrao.ml/2020/1/hello-world/)
+- [WhatsApp Pay Guide: Are WhatsApp And WhatsApp Pay Two Different Apps? Learn How To Use WhatsApp Pay With The Help Of This Guide](https://blog.sarveshmrao.in/2020/2084/whatsapp-pay-guide-are-whatsapp-and-whatsapp-pay-two-different-apps-learn-how-to-use-whatsapp-pay-with-the-help-of-this-guide/)
+- [Google Graveyard: Cemetery For Cancelled Applications By Google Explained](https://blog.sarveshmrao.in/2020/2066/google-graveyard-cemetery-for-cancelled-applications-by-google-explained/)
+- [Tracing The Smartphone Manufacturer Micromax’s Origin](https://blog.sarveshmrao.in/2020/2058/tracing-the-smartphone-manufacturer-micromaxs-origin/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
