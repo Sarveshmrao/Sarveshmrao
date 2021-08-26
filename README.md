@@ -38,6 +38,7 @@ Skills: PHP, Node JS, Python and some other stuff.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sarveshmrao&&style=flat-square)  
 
+<a href="https://app.daily.dev/sarveshmrao"><img src="https://api.daily.dev/devcards/e0b2001c38b848c1b775e0d061673fab.png?r=5bg" width="400" alt="Sarvesh M Rao's Dev Card"/></a>
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [WhatsApp Pay Guide: Are WhatsApp And WhatsApp Pay Two Different Apps? Learn How To Use WhatsApp Pay With The Help Of This Guide](https://blog.sarveshmrao.in/2020/2084/whatsapp-pay-guide-are-whatsapp-and-whatsapp-pay-two-different-apps-learn-how-to-use-whatsapp-pay-with-the-help-of-this-guide/)
