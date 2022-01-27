@@ -1,10 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
+  <img src="https://user-images.githubusercontent.com/49156390/151322916-39244723-81a5-4b26-8c12-aa83ff42a368.png" align="center" style="width: 100%" />
+
 </div>  
   
 ### Hi there 👋, I'm Sarvesh M Rao
 #### A guy who loves programming
-![A guy who loves programming](https://sarveshmrao.in/images/logo.png)
+<!-- ![A guy who loves programming](https://sarveshmrao.in/images/logo.png) -->
 
 I'm a Programmer, Video Creator, Web Developer, YouTuber and a FreeLancer. 
 More at https://sarveshmrao.in
