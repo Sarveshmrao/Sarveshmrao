@@ -26,19 +26,19 @@ Skills: PHP, Node JS, Python and some other stuff.
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarveshmrao)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sarveshmrao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshmrao)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarveshmrao&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshmrao&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshmrao&show_icons=true&theme=onedark)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarveshmrao)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarveshmrao&theme=onedark)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sarveshmrao)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarveshmrao)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sarveshmrao&theme=onedark)  
 
-![Profile views](https://komarev.com/ghpvc/?username=sarveshmrao&&style=flat-square)  
+![Profile views](https://komarev.com/ghpvc/?username=sarveshmrao&&style=flat-square&theme=onedark)  
 
 <a href="https://app.daily.dev/sarveshmrao"><img src="https://api.daily.dev/devcards/e0b2001c38b848c1b775e0d061673fab.png?r=5bg" width="400" alt="Sarvesh M Rao's Dev Card"/></a>
 ## Recent Blog Posts  
