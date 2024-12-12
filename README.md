@@ -32,7 +32,7 @@ Skills: PHP, Node JS, Python and some other stuff.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarveshmrao&show_icons=true&theme=onedark)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sarveshmrao&theme=onedark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarveshmrao&theme=github&days=60)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sarveshmrao)  
 
@@ -41,12 +41,12 @@ Skills: PHP, Node JS, Python and some other stuff.
 ![Profile views](https://komarev.com/ghpvc/?username=sarveshmrao&&style=flat-square&theme=onedark)  
 
 <a href="https://app.daily.dev/sarveshmrao"><img src="https://api.daily.dev/devcards/e0b2001c38b848c1b775e0d061673fab.png?r=5bg" width="400" alt="Sarvesh M Rao's Dev Card"/></a>
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp Pay Guide: Are WhatsApp And WhatsApp Pay Two Different Apps? Learn How To Use WhatsApp Pay With The Help Of This Guide](https://blog.sarveshmrao.in/2020/2084/whatsapp-pay-guide-are-whatsapp-and-whatsapp-pay-two-different-apps-learn-how-to-use-whatsapp-pay-with-the-help-of-this-guide/)
+<!-- - [WhatsApp Pay Guide: Are WhatsApp And WhatsApp Pay Two Different Apps? Learn How To Use WhatsApp Pay With The Help Of This Guide](https://blog.sarveshmrao.in/2020/2084/whatsapp-pay-guide-are-whatsapp-and-whatsapp-pay-two-different-apps-learn-how-to-use-whatsapp-pay-with-the-help-of-this-guide/)
 - [Google Graveyard: Cemetery For Cancelled Applications By Google Explained](https://blog.sarveshmrao.in/2020/2066/google-graveyard-cemetery-for-cancelled-applications-by-google-explained/)
 - [Tracing The Smartphone Manufacturer Micromax’s Origin](https://blog.sarveshmrao.in/2020/2058/tracing-the-smartphone-manufacturer-micromaxs-origin/)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END --> 
 
 
 
